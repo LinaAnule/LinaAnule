@@ -3,7 +3,6 @@
 I'm a software engineer with a passion for problem-solving and creating elegant solutions. After starting as a QA specialist in the pharmaceutical field, I transitioned to IT and never looked back!
 
 ### Languages and Tools:
-<br />
 
 <img align="left" alt="Spring Boot" width="26px" src="Spring_Boot.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
