@@ -22,10 +22,15 @@ I'm a software engineer with a passion for problem-solving and creating elegant 
 <br />
 
 
-
-
 ![Lina's GitHub stats](https://github-readme-stats-rouge-three-40.vercel.app/api?username=LinaAnule&theme=transparent&show_icons=true)
 
 
 [linkedin]: https://www.linkedin.com/in/lina-anulevičiūtė/
 </div>
+
+<br />
+<br />
+
+  ![](https://komarev.com/ghpvc/?username=LinaAnule&color=blue)
+
+
