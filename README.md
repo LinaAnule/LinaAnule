@@ -18,12 +18,10 @@ I'm a software engineer with a passion for problem-solving and creating elegant 
 <br />
 
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Lina's GitHub Stats" src="https://github-readme-stats-rouge-three-40.vercel.app/api?username=LinaAnule&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
 
 
 [linkedin]: https://www.linkedin.com/in/lina-anulevičiūtė/
