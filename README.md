@@ -1,5 +1,7 @@
 # Hi there, I'm Lina. 👋 
 
+<details>
+
 I'm a software engineer with a passion for problem-solving and creating elegant solutions. After starting as a QA specialist in the pharmaceutical field, I transitioned to IT and never looked back!
 
 ### Languages and Tools:
@@ -32,5 +34,5 @@ I'm a software engineer with a passion for problem-solving and creating elegant 
 <br />
 
   ![](https://komarev.com/ghpvc/?username=LinaAnule&color=blue)
-
+</details>
 
